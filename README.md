@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as a Microsoft Engineer.
 - 🌱 I’m currently learning devops & cloud architecture & database.
 - 👯 I’m looking to collaborate on cloud architecture solutions 
 - 💬 Ask me about everything...
 - 📫 How to reach me: @Jas0n0ss
-- 😄 Skills: 
+
   ```yaml
+  😄 Skills: 
        - Linux & Windows administration
        - Automation: Ansible,Saltstack,Puppet
        - Middleware:
