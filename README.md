@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a Microsoft Engineer.
-- 🌱 I’m currently learning devops & cloud architecture & database.
+- 🌱 I’m currently learning cloud architecture solutions & SQL database.
 - 👯 I’m looking to collaborate on cloud architecture solutions 
 - 💬 Ask me about everything...
 - 📫 How to reach me: @Jas0n0ss
