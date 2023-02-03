@@ -8,3 +8,4 @@
 ---
 - https://github.com/Jas0n0ss/diysonlinux
 - https://www.cnblogs.com/Jas0n0ss/
+- https://oss.msft.vip
