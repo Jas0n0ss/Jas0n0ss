@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a Microsoft Engineer.
-- 🌱 I’m currently learning cloud architecture solutions & SQL database.
-- 👯 I’m looking to collaborate on cloud architecture solutions & Devops & native cloud technicals
+- 🌱 I’m currently focusing and learning azure cloud solutions & native cloud related.
 - 📫 How to reach me: @Jas0n0ss
-- 😄 Hobby: Hackintosh,Raspberry Pi,OpenWrt and Open source everything...
+- 😄 Hobby: Hackintosh,Raspberry Pi,OpenWrt and Opensource everything...
 ---
-- https://github.com/Jas0n0ss/diysonlinux
+- https://github.com/Jas0n0ss
 - https://www.cnblogs.com/Jas0n0ss/
 - https://oss.msft.vip
