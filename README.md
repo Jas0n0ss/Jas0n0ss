@@ -3,8 +3,7 @@
 - 🔭 I’m currently working as a Microsoft Engineer.
 - 🌱 I’m currently focusing and learning azure cloud solutions & native cloud related.
 - 📫 How to reach me: @Jas0n0ss
-- 😄 Hobby: Hackintosh,Raspberry Pi,OpenWrt and Opensource everything...
+- 😄 Hobby: Hackintosh,Raspberry Pi,OpenWrt,devops,cloud native tech and oss...
 ---
-- https://github.com/Jas0n0ss
 - https://www.cnblogs.com/Jas0n0ss/
 - https://oss.msft.vip
