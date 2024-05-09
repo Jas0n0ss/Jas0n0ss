@@ -6,4 +6,4 @@
 - 😄 Hobby: Hackintosh,Raspberry Pi,OpenWrt,devops,native cloud tech and oss...
 ---
 - https://www.cnblogs.com/Jas0n0ss/
-- https://oss.msft.vip
+- https://www.msft.vip
