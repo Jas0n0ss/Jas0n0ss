@@ -7,3 +7,4 @@
 ---
 - https://www.cnblogs.com/Jas0n0ss/
 - https://www.msft.vip
+- https://www.msfts.org
