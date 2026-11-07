@@ -4,5 +4,5 @@ Hi, I’m a Senior System Architect with 10+ years of experience in Linux infras
 
 I’m passionate about building scalable, resilient, and secure systems, driving cloud adoption, and aligning technology with business goals. I enjoy leading cross-functional teams and delivering complex projects while ensuring operational excellence.
 
-- https://www.cnblogs.com/Jas0n0ss/
 - https://www.msfts.org
+- https://msfts.org
